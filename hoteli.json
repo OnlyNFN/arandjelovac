@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "ime": "HOTEL IZVOR",
+    "opis": "Hotel Izvor, luksuzno SPA & Wellness resort hotelsko zdanje, se nalazi u srcu Šumadije i jedne od najlepših kraljevskih banja Srbije – Bukovičke banje.",
+    "webadresa": "https://a-hotel-izvor.com/",
+    "slika": "https://a-hotel-izvor.com/dost/media/2595.jpg",
+    },
+  
+  {
+    "id": 2,
+    "ime": "Central Park Lux",
+    "opis": "Objekat Central Park Lux nudi klimatizovani smeštaj u Aranđelovcu, na manje od 1 km od Akva-parka Izvor. Gostima ovog objekta na raspolaganju su restoran, besplatan privatni parking i besplatan WiFi.",
+    "webadresa": "https://centralparklux.rs/",
+    "slika": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147652740.jpg?k=53caac93e02b6e64a39442ab0607afbbfac1240f2939ac4bc66c555b784e0a2c&o=&hp=1",
+    },
+]
