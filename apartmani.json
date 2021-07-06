@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "ime": "Kristal Apartmani",
+    "opis": "Smeštaj Kristal Apartmani nalazi se na oko 1,7 km od Akva-parka Izvor i nudi vrt, terasu i pogled na planinu. Privatan parking i WiFi mogu se besplatno koristiti, a na raspolaganju vam je i restoran.
+
+Ovaj apartman sadrži 2 spavaće sobe, 1 kupatilo i flat-screen TV sa satelitskim kanalima. Takođe ima trpezariju, potpuno opremljenu kuhinju i popločano dvorište sa pogledom na grad.",
+    "webadresa": "https://www.facebook.com/KristalApartmaniArandjelovac/",
+    "slika": "https://scontent.fbeg1-1.fna.fbcdn.net/v/t1.6435-9/152969089_1098894880581118_8581462478510175877_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=a26aad&_nc_ohc=_mMPlpvdqsgAX9-onOL&_nc_ht=scontent.fbeg1-1.fna&oh=b5a648550220183d8fe6b07773468517&oe=60E9E056",
+    },
+  {
+    "id": 2,
+    "ime": "",
+    "opis": "",
+    "webadresa": "",
+    "slika": "",
+    },
+  {
+    "id": 3,
+    "ime": "",
+    "opis": "",
+    "webadresa": "",
+    "slika": "",
+    },
+]
