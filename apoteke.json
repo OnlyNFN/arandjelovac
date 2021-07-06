@@ -1,16 +1,9 @@
 [
   {
     "id": 1,
-    "ime": "Apoteka BENU",
-    "opis": "Prisutni smo na 400 lokacija širom naše zemlje i biće nas još. Apotekarska ustanova BENU je najveći lanac apoteka u Srbiji i deo je velike međunarodne kompanije PHOENIX iz Nemačke. Ono po čemu se BENU izdvaja na tržištu jeste konstantan rad sa zaposlenim farmaceutima na usavršavanju i upoznavanju najnovijih dostignuća medicine i farmakologije, sa ciljem da se pacijentima ponudi najbolji mogući savet. BENU u svom poslovanju primenjuje najsavremenije evropske standarde u nabavci, distribuciji, skladištenju i izlaganju lekova i lekovitih sredstava, sve sa ciljem maksimalne bezbednosti za pacijente.",
-    "webadresa": "https://benu.rs/",
-    "slika": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4Xc47j1lf_NPF6IF3htrdEk9rH1E5ZDCEOTX0Wg4D4JFv4rNMy1XVGR0VTGe_RCpCXU&usqp=CAU",
-    },
-   {
-    "id": 2,
-    "ime": "Apoteka Vegafarma",
-    "opis": "Vegafarma apoteke pružaju primarnu zdravstvenu zaštitu već 29 godina. Prva apoteka je otvorena u Koceljevi 1992. godine, a Vegafarma postaje Zdravstvena Ustanova "Vegafarma" 22.12.2005. godine u Valjevu. Danas Vegafarma u svom sistemu ima preko 80 ogranaka širom Srbije i više od 300 zaposlenih u Kolubarskom okrugu, Beogradu, Vojvodini i Šumadiji.",
-    "webadresa": "https://vegafarma.rs/",
-    "slika": "https://vegafarma.rs/img/logo.png",
+    "ime": "Apoteka KURČINA",
+    "opis": "",
+    "webadresa": "",
+    "slika": "",
     },
 ]
