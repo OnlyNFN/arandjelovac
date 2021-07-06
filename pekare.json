@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "ime": "Pekara Ilić",
+    "opis": "Pekare sa tradicijom od 40 godina uspešnog poslovanja, koji je sačuvao vrhuski kvalitet proizvoda i generacije zadovoljnih mušterija.
+     Adresa: Knjaza Miloša 165, Aranđelovac	
+Telefon: 034/712-909
+Email: pekara.ilic.1975@gmail.com",
+    "webadresa": "https://pekara-ilic.com/",
+    "slika": "https://www.381info.com/paketi/8075/2.jpg",
+    },
+   {
+    "id": 2,
+    "ime": "Pekara Kod dve jetrve",
+    "opis": "Ilije Garašanina 38 
+34300 Aranđelovac 
+T: 034/715‑755
+",
+    "webadresa": "https://www.facebook.com/groups/695162197195133/",
+    "slika": "https://skolaplivanja.files.wordpress.com/2015/04/jetrve.jpg?w=439",
+    },
+]
