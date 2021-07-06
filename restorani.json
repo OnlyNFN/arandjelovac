@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "ime": "Restoran “Aleksandar”",
+    "opis": "Pretežna kuhinja: tradicionalna i internacionalna
+Adresa: Knjaza Miloša 171, 34300 Aranđelovac
+Tel: 034 725 617, 034 714 617",
+    "webadresa": "www.restoran-aleksandar.rs",
+    "slika": "https://bukovickabanja.rs/wp-content/uploads/2020/07/aleksandar-restoran.jpg",
+    },
+  
+    {
+    "id": 2,
+    "ime": "Restoran “Grb”",
+    "opis": "Pretežna kuhinja: nacionalna i internacionalna
+Adresa: Trešnjevički put bb, 34300 Aranđelovac
+Tel: 034 721 395, 034 726 700",
+    "webadresa": "https://www.restorangrb.com/",
+    "slika": "https://restorangrb.com/wp-content/uploads/2018/10/DSC_0182_resize.jpg", 
+    },
+]
